@@ -33,10 +33,11 @@ Abrir http://localhost:3000. No es necesario ejecutar `npm install`.
 | `/faq/` | Preguntas frecuentes |
 | `/landing/` | Presentación pública y equipo |
 | `/quick-start/` | Guía de inicio rápido |
+| `/presentacion/` | Presentación del piloto y roadmap, sin cuenta de Claude |
 
 Las páginas y sus imágenes están en `public/`. `server.mjs` sirve únicamente esa carpeta. Se mantiene el diseño del ZIP original; se habilitó el enlace a la landing y se corrigieron los enlaces de navegación de la documentación para apuntar al sitio publicado.
 
-Los vínculos al sistema SGV, al repositorio del sistema, al cronograma de Google Sheets y a la presentación de Claude siguen siendo externos. Su disponibilidad y sus permisos dependen de cada servicio. Las fuentes se cargan desde Google Fonts.
+Los vínculos al sistema SGV, al repositorio del sistema, y al cronograma de Google Sheets siguen siendo externos. Su disponibilidad y sus permisos dependen de cada servicio. Las fuentes se cargan desde Google Fonts.
 
 ## Equipo N.° 01
 
