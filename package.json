@@ -1,0 +1,9 @@
+{
+  "name": "sgv-linktree",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hub de presentación del Sistema de Gestión de Vacunas",
+  "type": "module",
+  "scripts": { "start": "node server.mjs" },
+  "engines": { "node": ">=22" }
+}
